@@ -5,13 +5,13 @@ public class PrintAreaOfShape {
 
 	// Method to print the area of a square
     public static void printAreaOfSquare(double side) {
-        double area = side * side;
+        double area = side * side; //Area of square calculation
         System.out.println("Area of square of side " + side + " units is = " + area + " sq. units.");
     }
 
     // Method to print the area of a rectangle
     public static void printAreaOfRectangle(double length, double breadth) {
-        double area = length * breadth;
+        double area = length * breadth; //Area of rectangle calculation
         System.out.println("Area of rectangle of length " + length + " units and breadth " 
         					+ breadth + " units is = " + area + " sq. units.");
     }
