@@ -6,7 +6,7 @@ public class Area{
         Scanner sc = new Scanner(System.in);
 
         System.out.println("Choose the shape (1 for square, 2 for rectangle):");
-        int choice = sc.nextInt();
+        int choice = sc.nextInt(); // Enter your choice of shape
 
         switch (choice) {
             case 1:
@@ -49,7 +49,7 @@ class AreaCalculate{
             System.out.println("Invalid Length Entered");
         }
         else{
-            double area = length * length;
+            double area = length * length; //area of square calculation
             System.out.println("Area of the square : "+area);
         }
     }
@@ -59,7 +59,7 @@ class AreaCalculate{
             System.out.println("Invalid Dimensions Entered");
         }
         else{
-            double area = length * width;
+            double area = length * width; //area of rectangle calculation
             System.out.println("Area of the Rectangle : "+area);
         }
     }
