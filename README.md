@@ -40,7 +40,7 @@ If you find this repository useful, please give it a ⭐! Contributions of all k
 
 ---
 
-## A Special thanks to all the users who contributed to this repository 
+## A Special thanks to all the users who contributed to this repository from past 2 years.
 ![RugbyYayGIF](https://github.com/user-attachments/assets/f1afdde7-56de-4308-abdf-a11acf0f3734) ![TheOfficeMichaelScottGIF](https://github.com/user-attachments/assets/41f80093-775e-4331-811a-266976dc561f)
 
 
