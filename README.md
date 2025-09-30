@@ -1,6 +1,6 @@
-# Welcome to [Java-hacktoberfest23] - Hacktoberfest 2023 🎉
+# Welcome to [Java-hacktoberfest25] - Hacktoberfest 2025 🎉
 
-Thank you for checking out this repository! We're excited to have you contribute to Hacktoberfest 2023. Before you get started, please take a moment to read the following rules and guidelines to ensure a smooth contribution process.
+Thank you for checking out this repository! We're excited to have you contribute to Hacktoberfest 2025. Before you get started, please take a moment to read the following rules and guidelines to ensure a smooth contribution process.
 
 ## How to Contribute
 
@@ -37,6 +37,19 @@ If you're new to GitHub and Hacktoberfest, you can check out these resources to 
 ## Show Your Support
 
 If you find this repository useful, please give it a ⭐! Contributions of all kinds are welcome, and every bit helps improve this project.
+
+---
+
+## A Special thanks to all the users who contributed to this repository 
+![RugbyYayGIF](https://github.com/user-attachments/assets/f1afdde7-56de-4308-abdf-a11acf0f3734) ![TheOfficeMichaelScottGIF](https://github.com/user-attachments/assets/41f80093-775e-4331-811a-266976dc561f)
+
+
+
+<a href="https://github.com/chetannihith/Java-hacktoberfest25/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=chetannihith/Java-hacktoberfest25" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
 
 ---
 
